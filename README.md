@@ -27,6 +27,7 @@
   
 ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
   
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
+
 
   
