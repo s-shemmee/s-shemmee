@@ -1,7 +1,16 @@
 <div align="center">
   <img width="100%" src="assets/shemmee.png" alt="cover" />
 </div>
-
+<h2>A little more about me ...<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+  
+```javascript
+const s-shemmee = {
+  pronouns: "She" | "Her",
+  code: [HTML, CSS, React, AngularJS, JavaScript, jQuery, VueJS],
+  tools: [Visual Studio Code, NPM, Bootstrap, SASS],
+}
+```
+  
 <div align="center">
   <a href="https://github.com/s-shemmee">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=s-shemmee&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/> 
