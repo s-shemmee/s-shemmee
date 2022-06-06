@@ -1,6 +1,7 @@
-## <h1 align="center">Hi There, I'm s-shemmee</h1>
-<!--### <h2 align="center">A software engineer with a passion for full-stack development, artificial intelligence, human-computer interactions and everything in between.</h2>-->
-<p align="center">A frontend developer, web designer and UX strategist. A passionate about web development and design, I am always looking to master the latest tech skills.</p>
+<div align="center">
+  <img width="100%" src="assets/shemmee.png" alt="cover" />
+</div>
+
 <div align="center">
   <a href="https://github.com/s-shemmee">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=s-shemmee&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/> 
