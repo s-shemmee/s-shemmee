@@ -17,14 +17,10 @@ const s-shemmee = {
 };
 ```
 ---
-<div>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=s-shemmee&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-<img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-shemmee&theme=dracula&hide_border=true"/>
-</div>
-</br>
-<div>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-shemmee&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-  <img align="right" height="150" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-shemmee&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-shemmee&theme=dracula&hide_border=true"/><br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-shemmee&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 ---  
