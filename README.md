@@ -17,10 +17,11 @@ const s-shemmee = {
 };
 ```
 ---
+
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-shemmee&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-shemmee&theme=dracula&hide_border=true"/><br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-shemmee&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <a href="https://github.com/s-shemmee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-shemmee&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-shemmee&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 
 ---  
