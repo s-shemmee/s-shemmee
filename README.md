@@ -17,9 +17,11 @@ const s-shemmee = {
 };
 ```
 ---
-![](https://github-readme-stats.vercel.app/api?username=s-shemmee&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=s-shemmee&theme=dracula&hide_border=true)<br/>
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=s-shemmee&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=s-shemmee&theme=dracula&hide_border=true"/>
+</div>
+</br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-shemmee&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
