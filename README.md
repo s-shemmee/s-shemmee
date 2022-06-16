@@ -20,8 +20,8 @@ const s-shemmee = {
 
 <div align="center">
   <a href="https://github.com/s-shemmee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-shemmee&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-shemmee&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=s-shemmee&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-shemmee&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 
 ---  
