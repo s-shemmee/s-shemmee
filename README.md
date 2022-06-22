@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="assets/shemmee.png" alt="cover" />
+  <img width="100%" src="assets/shemmee.png" alt="cover"/>
 </div>
 <h2>A little more about me...  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
   
@@ -16,7 +16,6 @@ const s-shemmee = {
     }
 };
 ```
----
 
 <div align="center">
   <a href="https://github.com/s-shemmee">
@@ -28,5 +27,5 @@ const s-shemmee = {
 
 ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
 
-  
-> Always up for a chat about web development or design, check out some of my work on GitHub.
+---
+#### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about web development or design, check out some of my work on Github!</b> :)</em>
