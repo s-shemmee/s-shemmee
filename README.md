@@ -27,3 +27,6 @@ const s-shemmee = {
 ---  
 
 ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
+
+  
+> Always up for a chat about web development or design, check out some of my work on GitHub.
