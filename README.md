@@ -11,7 +11,7 @@ const s-shemmee = {
             js: ["Vue", "React", "Angular"],
             css: ["bootstrap", "sass"]
         },
-        backEnd: ["Java", "PHP"],
+        backEnd: ["Python", "Ruby"],
         databases: ["MySql", "oracle"],
     }
 };
