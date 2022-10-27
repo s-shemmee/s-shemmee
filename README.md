@@ -29,3 +29,5 @@ const s-shemmee = {
 
 ---
 #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about web development or design, check out some of my work on Github!</b> :)</em>
+---
+![](https://komarev.com/ghpvc/?username=s-shemmee&color=blueviolet)
