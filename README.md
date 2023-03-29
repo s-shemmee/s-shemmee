@@ -4,16 +4,16 @@
 <h2>A little more about me...  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
   
 ```javascript
-const s-shemmee = {
+const s_shemmee = {
     pronouns: "She" | "Her",
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
+            css: ["Bootstrap", "Tailwind CSS", "Sass"],
+            design: ["Figma", "Adobe XD"],
         },
-        backEnd: ["Python", "Ruby"],
-        databases: ["MySql", "oracle"],
-    }
+        uiTools: ["InVision", "Marvel", "Framer X"],
+    },
 };
 ```
 
