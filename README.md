@@ -1,6 +1,7 @@
 <div align="center">
   <img width="100%" src="assets/banner.png" alt="cover"/>
 </div>
+
 <h2>A little more about me...  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
   
 ```javascript
@@ -8,11 +9,11 @@ const s_shemmee = {
     pronouns: "She" | "Her",
     technologies: {
         frontEnd: {
-            js: ["Vue", "React", "Angular"],
+            js: ["Vue", "React"],
             css: ["Bootstrap", "Tailwind CSS", "Sass"],
             design: ["Figma", "Adobe XD"],
         },
-        uiTools: ["InVision", "Marvel", "Framer X"],
+        uiTools: ["InVision", "Marvel"],
     },
 };
 ```
