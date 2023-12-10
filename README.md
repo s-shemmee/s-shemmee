@@ -11,12 +11,13 @@ const s_shemmee = {
     pronouns: "She" | "Her",
     technologies: {
         frontEnd: {
-            js: ["Vue", "React"],
-            css: ["Bootstrap", "Tailwind CSS", "Sass"],
+            js: ["React", "Vue"],
+            css: ["Bootstrap", "Tailwind CSS"],
             design: ["Figma", "Adobe XD"],
         },
         uiTools: ["InVision", "Marvel"],
     },
+    motto: "Keep it simple and stupid 🤓",
 };
 ```
 
