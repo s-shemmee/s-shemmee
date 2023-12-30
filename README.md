@@ -37,7 +37,7 @@ const s_shemmee = {
 | [![NFT-Portfolio-Landing-Page](https://github-readme-stats.vercel.app/api/pin/?username=shemmee&theme=dracula&hide_border=true&show_icons=true&repo=NFT-Portfolio-Landing-Page)](https://github.com/shemmee/NFT-Portfolio-Landing-Page) | [![TikTok-UI-Clone](https://github-readme-stats.vercel.app/api/pin/?username=shemmee&theme=dracula&hide_border=true&show_icons=true&repo=TikTok-UI-Clone)](https://github.com/shemmee/TikTok-UI-Clone) |
 | --- | --- |
 | [![Dictionary-React-App](https://github-readme-stats.vercel.app/api/pin/?username=shemmee&theme=dracula&hide_border=true&show_icons=true&repo=Dictionary-React-App)](https://github.com/shemmee/Dictionary-React-App) | [![Weather-App](https://github-readme-stats.vercel.app/api/pin/?username=shemmee&theme=dracula&hide_border=true&show_icons=true&repo=Weather-App)](https://github.com/shemmee/Weather-App) |
-| [![React-Weather-App](https://github-readme-stats.vercel.app/api/pin/?username=shemmee&theme=dracula&hide_border=true&show_icons=true&repo=React-Weather-App)](https://github.com/shemmee/React-Weather-App) | [![Dark-Violetta](https://github-readme-stats.vercel.app/api/pin/?username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&repo=Dark-Violetta)](https://github.com/s-shemmee/Dark-Violetta) |
+| [![React-Weather-App](https://github-readme-stats.vercel.app/api/pin/?username=shemmee&theme=dracula&hide_border=true&show_icons=true&repo=React-Weather-App)](https://github.com/shemmee/React-Weather-App) | [![MoviePitch](https://github-readme-stats.vercel.app/api/pin/?username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&repo=MoviePitch)](https://github.com/s-shemmee/MoviePitch) |
 
 </div>
 
