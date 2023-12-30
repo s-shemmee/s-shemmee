@@ -1,13 +1,8 @@
-<div align="center">
-  <img width="100%" src="assets/banner.png" alt="cover"/>
-</div>
-
----
-
 <h2>A little more about me...  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
   
 ```javascript
 const s_shemmee = {
+    bio: "Hi! 👋🏻 Self-taught front-end dev passionate about UI/UX. Open-source enthusiast.",
     pronouns: "She" | "Her",
     technologies: {
         frontEnd: {
