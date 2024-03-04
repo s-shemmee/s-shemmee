@@ -1,11 +1,9 @@
-<h2>A little more about me...  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-<div align="left">
+<h2>A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
 ```javascript
 const s_shemmee = {
-        bio: "Hi! 👋🏻 Self-taught front-end dev passionate about UI/UX. Open-source enthusiast.",
-        pronouns: "She" | "Her",
+        bio: "Hey there! Shemmee here 👩🏻‍💻, a self-taught front-end dev passionate about UI/UX.",
+        pronouns: "She" , "Her",
         techStack: {
             languages: ["HTML5", "CSS3", "JavaScript", "TypeScript"],
             frameworks: ["React", "Vue", "Next.js", "Vite", "Bootstrap"],
@@ -14,10 +12,9 @@ const s_shemmee = {
         },
         designTools: ["Figma", "InVision", "Adobe XD", "Framer"],
     },
-    motto: "Keep it simple and stupid",
+    motto: "Keep it simple and stupid ✨",
 };
 ```
-</div>
 
 <div align="center">
 
