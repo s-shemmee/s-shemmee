@@ -1,9 +1,9 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # run automatically every 12 hours
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */12 * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -28,7 +28,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=dracula&color_snake=#BD93F9&color_dots=#282A36,#44475A,#6272A4,#8BE9FD,#FF79C6
+            dist/github-contribution-grid-snake-dark.svg?palette=dracula&color_snake=#BD93F9&color_dots=#E0BBE4,#D291BC,#957DAD,#7D5BA6,#4B0082,#2E2E2E
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
