@@ -4,7 +4,7 @@
 const s_shemmee = {
     bio: "Hey there! Shemmee here 👩🏻‍💻, a self-taught front-end developer passionate about UI/UX.",
     techStack: {
-        languages: ["JavaScript", "TypeScript"],
+        languages: ["JavaScript/TypeScript"],
         libraries: ["React", "Vue"],
         frameworks: ["Next.js", "Vite", "Bootstrap"],
         cssTools: ["SASS", "TailwindCSS", "Less"],
@@ -32,8 +32,8 @@ const s_shemmee = {
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/shemmee/NFT-Portfolio-Landing-Page">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemmee&theme=dracula&hide_border=true&show_icons=true&repo=NFT-Portfolio-Landing-Page" alt="NFT Portfolio Landing Page" />
+      <a href="https://github.com/s-shemmee/my-portfolio-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&repo=my-portfolio-website" alt="My Portfolio Website" />
       </a>
     </td>
   </tr>
