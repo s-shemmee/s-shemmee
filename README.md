@@ -17,8 +17,8 @@ const s_shemmee = {
 
 <div align="center">
 
-  ![](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-shemmee&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?show_bg=1&username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-shemmee&langs_count=20&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -75,3 +75,5 @@ const s_shemmee = {
   ![](https://komarev.com/ghpvc/?username=s-shemmee&color=blueviolet)
 
 </div>
+
+<!--   ![](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true) -->
