@@ -2,14 +2,14 @@
 <title id="bannerTitle">Shemmee's GitHub profile header</title>
 <desc id="bannerDesc">Hi, I'm Shemmee, a Front-End Engineer with a UI/UX eye, building stuff for the web</desc>
 
-<text x="32" y="55" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#e6e6e6">Hey, I'm Shemmee 👾</text>
+<text x="32" y="55" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#e6e6e6">Hey, I'm Shemmee ✨</text>
 
 <text x="32" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700">
 <tspan fill="#ff6ac1">Front-End Engineer</tspan><tspan fill="#e6e6e6"> with a </tspan><tspan fill="#5fd3e0">UI/UX eye</tspan><tspan fill="#e6e6e6">,</tspan>
 </text>
 
 <text x="32" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700">
-<tspan fill="#e6e6e6">building </tspan><tspan fill="#ffa26b">stuff for the web</tspan><tspan fill="#e6e6e6"> ✨</tspan>
+<tspan fill="#e6e6e6">building </tspan><tspan fill="#ffa26b">stuff for the web</tspan><tspan fill="#e6e6e6"> 👾</tspan>
 </text>
 
 <text x="32" y="176" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#b983e0">💻 shemmee.codes</text>
