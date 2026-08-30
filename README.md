@@ -1,19 +1,6 @@
-<h2>A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<h2>A little more about me...  <img src="assets/typing_cat.gif" width="50"></h2>
 
-```javascript
-const s_shemmee = {
-    bio: "Hey there! Shemmee here 👩🏻‍💻, a self-taught front-end developer passionate about UI/UX.",
-    techStack: {
-        languages: ["JavaScript/TypeScript"],
-        libraries: ["React", "Vue"],
-        frameworks: ["Next.js", "Vite", "Bootstrap"],
-        cssTools: ["SASS", "TailwindCSS", "Less"],
-        deployment: ["Github Pages", "Firebase", "Vercel", "Netlify"],
-    },
-    designTools: ["Figma", "InVision", "Adobe XD", "Framer"],
-    motto: "Keep it simple and stupid ✨",
-};
-```
+<img src="assets/header-banner.svg" width="100%" alt="Hey, I'm Shemmee — Front-End Engineer and UI/UX Designer building playful, pixel-perfect things for the web. shemmee.codes" />
 
 <div align="center">
 
@@ -70,8 +57,9 @@ const s_shemmee = {
   ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 
   ---
-  #### <img src="https://media.giphy.com/media/WygrrSksa7x4PHFXxM/giphy.gif" height="30"> <em><b>Always up for a chat and geeking out about all things tech!</b>💻<3</em>
+  #### <img src="hassets/yapping_cat.gif" height="30"> <em><b>Thanks for stopping by — open to new projects, always up for a good chat 👩🏻‍💻 <3</em>
 
   ![](https://komarev.com/ghpvc/?username=s-shemmee&color=blueviolet)
 
 </div>
+
