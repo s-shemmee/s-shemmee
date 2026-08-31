@@ -57,7 +57,7 @@
   ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 
   ---
-  #### <img src="hassets/yapping_cat.gif" height="30"> <em><b>Thanks for stopping by — open to new projects, always up for a good chat 👩🏻‍💻 <3</em>
+  #### <img src="assets/yapping_cat.gif" height="30"> <em><b>Thanks for stopping by — open to new projects, always up for a good chat 👩🏻‍💻 <3</em>
 
   ![](https://komarev.com/ghpvc/?username=s-shemmee&color=blueviolet)
 
