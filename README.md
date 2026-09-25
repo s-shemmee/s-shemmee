@@ -14,8 +14,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/shemmee/TikTok-UI-Clone">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=shemmee&theme=dracula&hide_border=true&show_icons=true&repo=TikTok-UI-Clone" alt="TikTok UI Clone" />
+      <a href="https://github.com/s-shemmee/GhibliGaze">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&repo=Ghibligaze" alt="GhibliGaze" />
       </a>
     </td>
     <td align="center">
