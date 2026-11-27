@@ -38,8 +38,8 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/shemmee/React-Weather-App">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=shemmee&theme=dracula&hide_border=true&show_icons=true&repo=React-Weather-App" alt="React Weather App" />
+      <a href="https://github.com/s-shemmee/remember-me">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&repo=remember-me" alt="Remember me" />
       </a>
     </td>
     <td align="center">
